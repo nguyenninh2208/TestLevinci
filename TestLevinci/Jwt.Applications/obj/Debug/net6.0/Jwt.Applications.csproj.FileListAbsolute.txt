@@ -1,0 +1,15 @@
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\Jwt.Applications.csproj.AssemblyReference.cache
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\Jwt.Applications.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\Jwt.Applications.AssemblyInfoInputs.cache
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\Jwt.Applications.AssemblyInfo.cs
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\Jwt.Applications.csproj.CoreCompileInputs.cache
+D:\TestPV\TestLevinci\Jwt.Applications\bin\Debug\net6.0\Jwt.Applications.deps.json
+D:\TestPV\TestLevinci\Jwt.Applications\bin\Debug\net6.0\Jwt.Applications.dll
+D:\TestPV\TestLevinci\Jwt.Applications\bin\Debug\net6.0\Jwt.Applications.pdb
+D:\TestPV\TestLevinci\Jwt.Applications\bin\Debug\net6.0\Jwt.Infrastructure.dll
+D:\TestPV\TestLevinci\Jwt.Applications\bin\Debug\net6.0\Jwt.Infrastructure.pdb
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\Jwt.Applications.csproj.CopyComplete
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\Jwt.Applications.dll
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\refint\Jwt.Applications.dll
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\Jwt.Applications.pdb
+D:\TestPV\TestLevinci\Jwt.Applications\obj\Debug\net6.0\ref\Jwt.Applications.dll

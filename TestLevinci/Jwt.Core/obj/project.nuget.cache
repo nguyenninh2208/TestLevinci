@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f865M7C7jat2VMI1pGsy4tH+a1CP4fqu16j7lIeZ1GUqhBDYpR15z8Nxh7hc9IClNEaBH8iPMEBJCrZ8DzU7mA==",
+  "success": true,
+  "projectFilePath": "D:\\TestPV\\TestLevinci\\Jwt.Core\\Jwt.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ninh\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\Ninh\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

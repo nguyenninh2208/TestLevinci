@@ -1,0 +1,5 @@
+D:\TestPV\TestLevinci\Jwt.Core\obj\Debug\net6.0\Jwt.Core.csproj.AssemblyReference.cache
+D:\TestPV\TestLevinci\Jwt.Core\obj\Debug\net6.0\Jwt.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestPV\TestLevinci\Jwt.Core\obj\Debug\net6.0\Jwt.Core.AssemblyInfoInputs.cache
+D:\TestPV\TestLevinci\Jwt.Core\obj\Debug\net6.0\Jwt.Core.AssemblyInfo.cs
+D:\TestPV\TestLevinci\Jwt.Core\obj\Debug\net6.0\Jwt.Core.csproj.CoreCompileInputs.cache
